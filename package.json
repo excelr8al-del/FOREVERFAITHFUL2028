@@ -1,0 +1,4 @@
+{
+  "name": "paul-lopez-campaign", "version": "1.0.0", "private": true,
+  "type": "module", "scripts": { "dev": "node preview.mjs", "check": "node --check public/script.js && node --check api/join.js" }, "engines": { "node": ">=22" }
+}
